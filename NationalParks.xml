@@ -1,4 +1,4 @@
-<NationalParks>
+<NationalParks xmlns="https://tarunchottera204.github.io/CSE-445---A4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://tarunchottera204.github.io/CSE-445---A4 https://tarunchottera204.github.io/CSE-445---A4/NationalParks.xsd">
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
